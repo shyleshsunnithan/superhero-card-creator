@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CardForge AI",
+  "description": "Transform yourself into a legendary trading card using Gemini AI. Upload a photo, choose a theme, and generate a unique collectible.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
